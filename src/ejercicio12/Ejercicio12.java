@@ -24,6 +24,7 @@ public class Ejercicio12 {
         int num;
         Scanner leer = new Scanner(System.in);
         
+        System.out.println("buenos dias");
         do{
             System.out.println("Ingrese un numero del 0 al 10 ");
             num =leer.nextInt(); 
